@@ -1,0 +1,226 @@
+1      ;Lesotho;                                            15.00                                             
+2      ;Lithuania;                                          14.60                                             
+3      ;Bulgaria;                                           14.50                                             
+4      ;Latvia;                                             14.50                                             
+5      ;Ukraine;                                            14.40                                             
+6      ;Guinea-Bissau;                                      13.90                                             
+7      ;Chad;                                               13.80                                             
+8      ;Serbia;                                             13.60                                             
+9      ;Russia;                                             13.50                                             
+10     ;Afghanistan;                                        13.40                                             
+11     ;Central African Republic;                           13.20                                             
+12     ;Belarus;                                            13.20                                             
+13     ;Swaziland;                                          13.20                                             
+14     ;Somalia;                                            13.10                                             
+15     ;Gabon;                                              13.00                                             
+16     ;Hungary;                                            12.80                                             
+17     ;Estonia;                                            12.60                                             
+18     ;Moldova;                                            12.60                                             
+19     ;Nigeria;                                            12.40                                             
+20     ;Zambia;                                             12.20                                             
+21     ;Croatia;                                            12.20                                             
+22     ;Romania;                                            12.00                                             
+23     ;Niger;                                              11.80                                             
+24     ;Germany;                                            11.70                                             
+25     ;Mozambique;                                         11.60                                             
+26     ;Slovenia;                                           11.60                                             
+27     ;Greece;                                             11.30                                             
+28     ;Burkina Faso;                                       11.20                                             
+29     ;Portugal;                                           11.10                                             
+30     ;Georgia;                                            10.90                                             
+31     ;Czechia;                                            10.50                                             
+32     ;Italy;                                              10.40                                             
+33     ;Poland;                                             10.40                                             
+34     ;Sierra Leone;                                       10.40                                             
+35     ;Denmark;                                            10.30                                             
+36     ;Zimbabwe;                                           10.20                                             
+37     ;Isle of Man;                                        10.20                                             
+38     ;Uganda;                                             10.20                                             
+39     ;Bosnia and Herzegovina;                             10.00                                             
+40     ;Finland;                                            10.00                                             
+41     ;Slovakia;                                           9.90                                              
+42     ;Saint Pierre and Miquelon;                          9.90                                              
+43     ;Mali;                                               9.80                                              
+44     ;Monaco;                                             9.80                                              
+45     ;Japan;                                              9.80                                              
+46     ;Belgium;                                            9.70                                              
+47     ;Montenegro;                                         9.70                                              
+48     ;Cameroon;                                           9.60                                              
+49     ;Botswana;                                           9.60                                              
+50     ;Austria;                                            9.60                                              
+51     ;Congo, Democratic Republic of the;                  9.60                                              
+52     ;Congo, Republic of the;                             9.50                                              
+53     ;Cote d'Ivoire;                                      9.40                                              
+54     ;Armenia;                                            9.40                                              
+55     ;United Kingdom;                                     9.40                                              
+56     ;Uruguay;                                            9.40                                              
+57     ;Sweden;                                             9.40                                              
+58     ;South Africa;                                       9.40                                              
+59     ;Malta;                                              9.40                                              
+60     ;France;                                             9.30                                              
+61     ;Korea North;                                       9.30                                              
+62     ;Angola;                                             9.20                                              
+63     ;Macedonia;                                          9.20                                              
+64     ;Spain;                                              9.10                                              
+65     ;Guernsey;                                           9.00                                              
+66     ;Guinea;                                             9.00                                              
+67     ;Netherlands;                                        8.90                                              
+68     ;Faroe Islands;                                      8.80                                              
+69     ;Burundi;                                            8.80                                              
+70     ;Trinidad and Tobago;                                8.80                                              
+71     ;Greenland;                                          8.70                                              
+72     ;San Marino;                                         8.70                                              
+73     ;Canada;                                             8.70                                              
+74     ;Cuba;                                               8.70                                              
+75     ;Bermuda;                                            8.60                                              
+76     ;Puerto Rico;                                        8.60                                              
+77     ;Barbados;                                           8.60                                              
+78     ;Gibraltar;                                          8.50                                              
+79     ;Tuvalu;                                             8.50                                              
+80     ;Cook Islands;                                       8.40                                              
+81     ;Curacao;                                            8.40                                              
+82     ;Aruba;                                              8.40                                              
+83     ;Switzerland;                                        8.30                                              
+84     ;Grenada;                                            8.20                                              
+85     ;US;                                      8.20                                              
+86     ;Palau;                                              8.10                                              
+87     ;Norway;                                             8.10                                              
+88     ;Kazakhstan;                                         8.10                                              
+89     ;Western Sahara;                                     8.10                                              
+90     ;Senegal;                                            8.10                                              
+91     ;Thailand;                                           8.00                                              
+92     ;Benin;                                              7.90                                              
+93     ;Dominica;                                           7.90                                              
+94     ;Malawi;                                             7.90                                              
+95     ;Mauritania;                                         7.90                                              
+96     ;Namibia;                                            7.90                                              
+97     ;Equatorial Guinea;                                  7.80                                              
+98     ;Jersey;                                             7.80                                              
+99     ;Virgin Islands;                                     7.80                                              
+100    ;Saint Helena, Ascension, and Tristan da Cunha;      7.80                                              
+101    ;China;                                              7.80                                              
+102    ;Ethiopia;                                           7.70                                              
+103    ;Saint Lucia;                                        7.70                                              
+104    ;South Sudan;                                        7.70                                              
+105    ;Liberia;                                            7.60                                              
+106    ;Haiti;                                              7.60                                              
+107    ;Tanzania;                                           7.60                                              
+108    ;Djibouti;                                           7.50                                              
+109    ;Cambodia;                                           7.50                                              
+110    ;Argentina;                                          7.50                                              
+111    ;New Zealand;                                        7.50                                              
+112    ;Guyana;                                             7.40                                              
+113    ;Taiwan*;                                             7.40                                              
+114    ;Burma;                                              7.40                                              
+115    ;Laos;                                               7.40                                              
+116    ;Liechtenstein;                                      7.40                                              
+117    ;Hong Kong;                                          7.40                                              
+118    ;India;                                              7.30                                              
+119    ;Australia;                                          7.30                                              
+120    ;Andorra;                                            7.30                                              
+121    ;Saint Vincent and the Grenadines;                   7.30                                              
+122    ;Sudan;                                              7.30                                              
+123    ;Luxembourg;                                         7.30                                              
+124    ;Comoros;                                            7.20                                              
+125    ;Bahamas, The;                                       7.20                                              
+126    ;Eritrea;                                            7.20                                              
+127    ;Mauritius;                                          7.10                                              
+128    ;Azerbaijan;                                         7.10                                              
+129    ;Saint Kitts and Nevis;                              7.10                                              
+130    ;Kiribati;                                           7.00                                              
+131    ;Ghana;                                              7.00                                              
+132    ;Seychelles;                                         7.00                                              
+133    ;Gambia The;                                        7.00                                              
+134    ;Togo;                                               6.90                                              
+135    ;Jamaica;                                            6.80                                              
+136    ;Albania;                                            6.80                                              
+137    ;Cyprus;                                             6.80                                              
+138    ;Sao Tome and Principe;                              6.80                                              
+139    ;Brazil;                                             6.70                                              
+140    ;Kenya;                                              6.70                                              
+141    ;Papua New Guinea;                                   6.60                                              
+142    ;Ireland;                                            6.60                                              
+143    ;Kyrgyzstan;                                         6.50                                              
+144    ;Bhutan;                                             6.50                                              
+145    ;Indonesia;                                          6.50                                              
+146    ;Madagascar;                                         6.50                                              
+147    ;Bolivia;                                            6.40                                              
+148    ;Iceland;                                            6.40                                              
+149    ;Rwanda;                                             6.40                                              
+150    ;Pakistan;                                           6.30                                              
+151    ;Tunisia;                                            6.30                                              
+152    ;Mongolia;                                           6.30                                              
+153    ;Sri Lanka;                                          6.20                                              
+154    ;Montserrat;                                         6.20                                              
+155    ;Chile;                                              6.20                                              
+156    ;Philippines;                                        6.10                                              
+157    ;Peru;                                               6.10                                              
+158    ;Suriname;                                           6.10                                              
+159    ;Fiji;                                               6.10                                              
+160    ;Turkmenistan;                                       6.10                                              
+161    ;Tajikistan;                                         6.00                                              
+162    ;Guam;                                               6.00                                              
+163    ;Cabo Verde;                                         6.00                                              
+164    ;Belize;                                             6.00                                              
+165    ;Turkey;                                             6.00                                              
+166    ;Yemen;                                              6.00                                              
+167    ;Korea, South;                                       6.00                                              
+168    ;American Samoa;                                     5.90                                              
+169    ;Nauru;                                              5.90                                              
+170    ;Vietnam;                                            5.90                                              
+171    ;Timor-Leste;                                        5.90                                              
+172    ;Cayman Islands;                                     5.80                                              
+173    ;El Salvador;                                        5.80                                              
+174    ;New Caledonia;                                      5.70                                              
+175    ;Antigua and Barbuda;                                5.70                                              
+176    ;Nepal;                                              5.60                                              
+177    ;Colombia;                                           5.50                                              
+178    ;Bangladesh;                                         5.40                                              
+179    ;Wallis and Futuna;                                  5.40                                              
+180    ;Samoa;                                              5.30                                              
+181    ;Uzbekistan;                                         5.30                                              
+182    ;Mexico;                                             5.30                                              
+183    ;Iran;                                               5.30                                              
+184    ;Honduras;                                           5.30                                              
+185    ;Venezuela;                                          5.30                                              
+186    ;French Polynesia;                                   5.20                                              
+187    ;Israel;                                             5.20                                              
+188    ;Sint Maarten;                                       5.20                                              
+189    ;Nicaragua;                                          5.10                                              
+190    ;British Virgin Islands;                             5.10                                              
+191    ;Ecuador;                                            5.10                                              
+192    ;Malaysia;                                           5.10                                              
+193    ;Lebanon;                                            5.00                                              
+194    ;Falkland Islands (Islas Malvinas);                  4.90                                              
+195    ;Morocco;                                            4.90                                              
+196    ;Tonga;                                              4.90                                              
+197    ;Panama;                                             4.90                                              
+198    ;Paraguay;                                           4.80                                              
+199    ;Northern Mariana Islands;                          4.80                                              
+200    ;Guatemala;                                          4.70                                              
+201    ;Costa Rica                                         4.70                                              
+202    ;Dominican Republic;                                 4.70                                              
+203    ;Egypt;                                              4.60                                              
+204    ;Anguilla;                                           4.60                                              
+205    ;Macau;                                              4.50                                              
+206    ;Algeria;                                            4.30                                              
+207    ;Micronesia Federated States of;                    4.20                                              
+208    ;Marshall Islands;                                   4.20                                              
+209    ;Maldives;                                           4.00                                              
+210    ;Vanuatu;                                            4.00                                              
+211    ;Syria;                                              4.00                                              
+212    ;Iraq;                                               3.80                                              
+213    ;Solomon Islands;                                    3.80                                              
+214    ;Brunei;                                             3.60                                              
+215    ;Libya;                                              3.60                                              
+216    ;West Bank;                                          3.50                                              
+217    ;Singapore;                                          3.50                                              
+218    ;Jordan;                                             3.40                                              
+219    ;Saudi Arabia;                                       3.40                                              
+220    ;Oman;                                               3.30                                              
+221    ;Turks and Caicos Islands;                           3.20                                              
+222    ;Gaza Strip;                                         3.10                                              
+223    ;Bahrain;                                            2.80                                              
+224    ;Kuwait;                                             2.20                                              
+225    ;United Arab Emirates;                               1.90                                              
+226    ;Qatar;                                              1.50                                              
